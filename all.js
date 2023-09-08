@@ -118,7 +118,7 @@ app.get('/users', getUsers);
 
 
 //2. users 생성 - 수정
-app.post('/users', signup);
+app.post('/users', signUp);
 
 
 
